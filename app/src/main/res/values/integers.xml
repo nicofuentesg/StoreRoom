@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="et_max_lines_name">50</integer>
+    <integer name="telefono_max_lenght">13</integer>
+    <integer name="max_lines_web">2</integer>
+    <integer name="lines_imagen">4</integer>
+</resources>

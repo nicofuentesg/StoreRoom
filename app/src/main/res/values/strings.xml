@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stores</string>
+    <string name="ivDescripicion">imagen de las tiendas</string>
+    <string name="fab_contenido">añadir tiendas</string>
+    <string name="fab_conte">añadir tiendas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_tienda">Ingrese el nombre de la tienda</string>
+    <string name="requerido">requerido</string>
+    <string name="hint_telefono">Ingrese el numero de telefono</string>
+    <string name="hint_url">"Ingrese el sitio web "</string>
+    <string name="hint_foto">Ingrese la url de la foto</string>
+    <string name="add_tienda">Crear Nueva Tienda</string>
+    <string name="save">Save</string>
+    <string name="arg_id">key_id</string>
+    <string name="actualizar_tienda">Tienda Actualizada!!1</string>
+</resources>
